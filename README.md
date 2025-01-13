@@ -1,22 +1,4 @@
-
-</body>
-</html>
-
-    <header>
-        <h1>C Projects</h1>
-        <p>A collection of C programming projects</p>
-    </header>
-
-    <section>
-        <h2>Project List:</h2>
-        <ul>
-            <li>Bengali Calendar</li>
-            <li>Character Matrix (Retro Text Visualizer)</li>
-            <li>English Calendar</li>
-            <li>Games Using ASCII Characters</li>
-            <li>Student Data Entry Software</li>
-        </ul>
-    </section>
-
-</body>
-</html>
+<header>
+    <h1>Flappy Bird in Space - README</h1>
+    <p><strong>Capstone Project</strong><br>ROLL: 1931026<br>Course: Software Development</p>
+</header>
