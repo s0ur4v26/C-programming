@@ -15,7 +15,7 @@
         <li>Bengali Calender</li>
         <li>Character Matrix</li>
         <li>English Calender</li>
-        <li>Games Using ASCII Character(Using No Graphics Libraray )</li>
+        <li>Games Using ASCII Character(Without using any Graphics Library)</li>
         <li>Student Data Entry Software</li>
     </ul>
 
