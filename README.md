@@ -16,5 +16,10 @@
 </section>
 <section>
     <h2>Bengali Calender</h2>
-    ![Image_Alt](https://github.com/s0ur4v26/Indie-games-python-/blob/main/Screenshot%202025-01- 13%20211609.png?raw=true)
+
 </section>
+
+![Image_Alt](https://github.com/s0ur4v26/C-programming/blob/main/C-projects/Bengali%20Calender/Bengali%20Calender_1.png?raw=true)
+![Image_Alt](https://github.com/s0ur4v26/C-programming/blob/main/C-projects/Bengali%20Calender/Bengali%20Calender_2.png?raw=true)
+![Image_Alt](https://github.com/s0ur4v26/C-programming/blob/main/C-projects/Bengali%20Calender/Bengali%20Calender_3.png?raw=true)
+
