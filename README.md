@@ -2,6 +2,10 @@
     <h1>C Projects </h1>
     
 </header>
+<section>
+ <p> <h4>C-Projects contains all the projects that i had done after learning the C-programming language. </h4></p>
+
+</section>
 
 <section>
     <h2>Folders</h2>
